@@ -1,0 +1,38 @@
+{
+  "mobiles": [
+    {
+      "id": 1,
+      "name": "redme note 8 pro",
+      "company": "redme",
+      "price": "20000",
+      "description": "This is redme note 8 pro",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dxomark.com%2Fxiaomi-redmi-note-8-pro-camera-review%2F&psig=AOvVaw2RkcO_CxiKxSBYVuPFUUgA&ust=1672751717143000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiKv_H7qPwCFQAAAAAdAAAAABAI"
+    },
+    {
+      "id": 1,
+      "name": "redme note 8 pro",
+      "company": "redme",
+      "price": "20000",
+      "description": "This is redme note 8 pro",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dxomark.com%2Fxiaomi-redmi-note-8-pro-camera-review%2F&psig=AOvVaw2RkcO_CxiKxSBYVuPFUUgA&ust=1672751717143000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiKv_H7qPwCFQAAAAAdAAAAABAI"
+    }
+  ],
+  "laptop": [
+    {
+      "id": 1,
+      "name": "redme note 8 pro",
+      "company": "redme",
+      "price": "20000",
+      "description": "This is redme note 8 pro",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dxomark.com%2Fxiaomi-redmi-note-8-pro-camera-review%2F&psig=AOvVaw2RkcO_CxiKxSBYVuPFUUgA&ust=1672751717143000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiKv_H7qPwCFQAAAAAdAAAAABAI"
+    },
+    {
+      "id": 1,
+      "name": "redme note 8 pro",
+      "company": "redme",
+      "price": "20000",
+      "description": "This is redme note 8 pro",
+      "imageUrl": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dxomark.com%2Fxiaomi-redmi-note-8-pro-camera-review%2F&psig=AOvVaw2RkcO_CxiKxSBYVuPFUUgA&ust=1672751717143000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJiKv_H7qPwCFQAAAAAdAAAAABAI"
+    }
+  ]
+}
