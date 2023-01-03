@@ -4,6 +4,7 @@ import { CommonModule } from '@angular/common';
 import { MobileRoutingModule } from './mobile-routing.module';
 import { MobileContainerComponent } from './components/mobile-container/mobile-container.component';
 import { MobileCardComponent } from './components/mobile-card/mobile-card.component';
+import { ApiService } from './services/api.service';
 
 
 @NgModule({
@@ -14,6 +15,7 @@ import { MobileCardComponent } from './components/mobile-card/mobile-card.compon
   imports: [
     CommonModule,
     MobileRoutingModule
-  ]
+  ],
+  providers: [ApiService]
 })
 export class MobileModule { }
