@@ -1,0 +1,40 @@
+
+.app-container {
+  margin: 1rem;
+  .header-card {
+    background: #2874f0;
+    padding: 0.5rem;
+
+    .content {
+      display: flex;
+      justify-content: space-between;
+      flex-direction: column;
+      align-items: center;
+    }
+
+    .header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100%;
+      .header-data {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 50%;
+        margin-top: 1rem;
+      }
+
+      .example-form {
+        width: 100%;
+        .example-full-width {
+          width: 100%;
+        }
+      }
+    }
+  }
+  .logo {
+    height: 2.5rem;
+  }
+}
+

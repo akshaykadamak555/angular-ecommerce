@@ -1,1 +1,17 @@
-<p>mobile-card works!</p>
+<div class="mobile-card-container">
+  <mat-card class="card" *ngFor="let mobile of mobileList">
+    <mat-card-content>
+      <div class="card-content">
+        <img class="card-data image" [src]="mobile.imageUrl" [alt]="mobile.company" />
+        <h2 class="card-data">{{ mobile.name | titlecase }}</h2>
+        <span class="card-data">{{ mobile.description | titlecase }}</span>
+        <span class="card-data">{{ mobile.price | currency:'INR' }}</span>
+        <div class="card-data">
+          <button class="buy-btn" mat-raised-button color="secondary">Add to cart</button>
+          <button class="buy-btn" mat-raised-button color="primary">Buy</button>
+        </div>
+
+      </div>
+    </mat-card-content>
+  </mat-card>
+</div>

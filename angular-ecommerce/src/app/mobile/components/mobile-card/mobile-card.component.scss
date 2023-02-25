@@ -1,0 +1,34 @@
+.mobile-card-container {
+  display: flex;
+  font-family: Georgia, serif;
+  flex-wrap: wrap;
+
+  .card {
+    margin: 1rem;
+    width: 21rem;
+
+    .card-content {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+
+
+      .card-data {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.5rem;
+      }
+
+      .image {
+        height: 12rem;
+      }
+
+      .buy-btn {
+        cursor: pointer;
+        margin-right: 1rem;
+      }
+    }
+  }
+}
